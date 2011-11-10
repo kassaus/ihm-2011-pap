@@ -1,0 +1,16 @@
+Caros alunos,
+
+Devem ver se já "pensaram" nos seguintes pontos:
+
+Acesso à Área de Administração - Não está definida. O Administrador vai gerir o quê? Não sabem por enquanto? Vão definir isto mais à frente?
+Administrativo
+Quando este Confirma Marcações acede ao histórico? Nesta altura é ainda cedo, mas este histórico vai ter filtros e pesquisas certo?
+O reagendar de um pedido requer o preenchimento de um formulário certo? Este preenchimento pode implicar erro e sucesso não?
+Eventualmente as opções de reagendar e cancelar vão ter inicio numa listagem, não?
+Profissional
+O profissional tb vai ter acesso ao histórico dos seus pedidos e pode pedir o cancelamento e reagendamento. Incluiram isto?
+Utente Registado
+O utente tb vai ter acesso ao histórico dos seus pedidos e pode pedir o cancelamento e reagendamento. Incluiram isto?
+Bom Trabalho!
+
+Inês Oliveira
